@@ -14,6 +14,6 @@ Primes.java — Программа для поиска простых чисел
 
 Palindrome.java — Анализатор строк на наличие свойств палиндрома.
 
->Метод reverseString(String s): переворачивает строку с помощью циклов и методов charAt().
+&nbsp;&nbsp;&nbsp;&nbsp;Метод reverseString(String s): переворачивает строку с помощью циклов и методов charAt().
 
->Метод isPalindrome(String s): сравнивает оригинальную строку с перевернутой, используя метод .equals().
+&nbsp;&nbsp;&nbsp;&nbsp;Метод isPalindrome(String s): сравнивает оригинальную строку с перевернутой, используя метод .equals().
